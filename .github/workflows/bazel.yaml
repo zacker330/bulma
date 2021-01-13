@@ -10,7 +10,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build_backend:
+  build_bulma:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@v2
